@@ -1,0 +1,10 @@
+spring:
+  application.name: notification-processor
+
+management:
+  endpoints.web.exposure.include: metrics,prometheus,health
+  endpoint:
+    metrics:
+      enabled: true
+      export.prometheus.enabled: true
+    endpoint.prometheus.enabled: true
