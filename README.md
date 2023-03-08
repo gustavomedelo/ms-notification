@@ -1,4 +1,4 @@
-# Autorizador
+# MS-Notification
 
 > Aplicação responsável por enviar notificações para diversos canais (SMS, WhatsApp, Email).
 
